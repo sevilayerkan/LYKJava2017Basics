@@ -23,7 +23,7 @@ public class KacYasindasinSen {
 		
 		double a = hesaplama(currentDate,dateOfBirth);
 		
-		System.out.println(a);
+		System.out.println(a " gundur yasiyorsunuz.");
 		
 		
 	}
